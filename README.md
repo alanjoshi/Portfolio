@@ -1,7 +1,6 @@
 # Alan Joshi John Portfolio
 
-This is the static GitHub Pages version of my portfolio.
-
+Live site: https://alanjoshi.github.io/Portfolio/
 ## Editing
 
 - Edit text in `index.html`
